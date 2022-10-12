@@ -1,2 +1,3 @@
 # StudioHAI
 This is my first Repository.
+I hope to eventually build a game that I've been wanting to develop for a long time. I am motivated and passionate about sound design and audio/music production, so the theme of my game will be heavily influenced by sounds and music within the game. Characters will be inspired by friends/family and personal interests. I don't know much about software development, but I do know how to use Wwise to implement sound assets into games and I plan on learning as much as I can so that I can bring my game idea into a reality. If you have any suggestions, want to collaborate, or have any questions for me: studiohai2022@gmail.com
